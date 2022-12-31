@@ -1,0 +1,19 @@
+main {
+  min-height: 100vh;
+}
+main a {
+  text-decoration: none;
+}
+main.materi-content h2 {
+  text-transform: capitalize;
+  font-weight: bold;
+  font-size: 2rem;
+}
+main.materi-content img {
+  width: 100%;
+}
+
+footer p {
+  font-weight: bold;
+  font-size: 1.2rem;
+}/*# sourceMappingURL=style.css.map */
